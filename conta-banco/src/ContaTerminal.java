@@ -19,10 +19,14 @@ public class ContaTerminal {
     System.out.println("Por favor. insire o nome da Agência:");
         String agencia = texto1.nextLine();
 
+
+
     Scanner texto2 = new Scanner(System.in);
 
     System.out.println("Por favor, digite o numero da Agência:");
         int numero = texto2.nextInt();
+
+        
 
     Scanner texto3 = new Scanner(System.in);
 
