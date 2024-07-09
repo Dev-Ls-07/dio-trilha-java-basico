@@ -8,6 +8,6 @@ public class telaDeInicio {
     public static void main(String[] args) {
         reprodutorMusical appMusica = new spotify();
 
-        appMusica.pausar();
+        appMusica.selecionandoMusica();
     }
 }
